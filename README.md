@@ -3,9 +3,14 @@
 
 # Motivation
 
-This project is meant to provide an alternative to githubs current search engine https://github.com/search. Instead of searching for a repository by keyword, you can find a repository that matches your use case or needs. This was inspired by Ought's Elicit[https://elicit.org/] and Alignment Search[https://www.lesswrong.com/posts/bGn9ZjeuJCg7HkKBj/introducing-alignmentsearch-an-ai-alignment-informed]
+This project is meant to provide an alternative to githubs current search engine https://github.com/search. Instead of searching for a repository by keyword, you can find a repository that matches your use case or needs. This was inspired by Ought's [Elicit](https://elicit.org/) and [Alignment Search](https://www.lesswrong.com/posts/bGn9ZjeuJCg7HkKBj/introducing-alignmentsearch-an-ai-alignment-informed)
 
-#How it works
+# Example Searches
+
+![](assets/Screenshot1.png)
+![](assets/Screenshot2.png)
+
+# How it works
 
 It isn't finished yet, but the basic flow is like this:
 
