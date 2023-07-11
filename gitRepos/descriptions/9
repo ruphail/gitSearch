@@ -1,0 +1,1 @@
+"Treat an ActiveRecord model as a file attachment, storing its patch, size, content type, etc."
